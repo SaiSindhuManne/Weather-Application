@@ -15,6 +15,9 @@ Real-time weather information: Displays current weather data based on the locati
 **Technologies Used**
 
 **HTML5:** For structuring the webpage and UI components.
+
 **CSS3:** For styling the interface and ensuring responsive design.
+
 **JavaScript (ES6):** For handling API requests, DOM manipulation, and dynamic content updates.
+
 **API:** External service used to fetch live weather data (e.g., OpenWeatherMap API, WeatherAPI, or similar).
